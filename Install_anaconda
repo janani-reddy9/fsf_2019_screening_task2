@@ -1,0 +1,10 @@
+This file is on how to install anaconda in the system
+Open anaconda.org website and go to downloads, select an operating system (Windows, Linux, Mac) and select version of Python (2.7 or 3.7)
+Click on download option (file size is around 630 MB)
+After it gets downloaded, double click in the executable file(doenloaded file) and install it.
+On successfull installation, you can see version of conda using "conda --version" on command prompt or anaconda prompt
+All the files like pyqt,spyder etc., will be installed during the process of installation of anaconda. 
+If we want to install any other library use "conda install library_name". Here library_name means numpy,pandas etc.,
+If we try to install any library which is already present, prompt shows that it is already present. Otherwise it gets downloaded.
+For any other queries watch "https://youtu.be/5mDYijMfSzs" or do post here.
+Happy Exploring :)
