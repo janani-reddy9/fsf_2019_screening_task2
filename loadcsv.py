@@ -1,6 +1,7 @@
 # fsf_2019_screening_task2
 #Project on plotting given values from a csv file using pyqt
 #This will allow us to load a csv file
+#Defaultly it will take tab spaces as delimeter.
 
 import csv, codecs 
 import os
